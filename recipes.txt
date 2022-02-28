@@ -2,3 +2,4 @@ create New Recipes
 
 Kheer
 pulav
+chiken fry
